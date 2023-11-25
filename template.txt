@@ -1,0 +1,30 @@
+INTRODUCTION
+------------
+
+Insert short description about the game here. And when I say short,
+I *mean* short. There's no need to explain anything extensively here.
+
+
+INSTALLATION
+------------
+
+Insert installation instructions here.
+
+
+HOW TO PLAY
+-----------
+
+Insert gameplay instructions here. Explain the central mechanics and
+the controls. Again, there's no need to explain absolutely everything
+here - brevity is key.
+
+
+CREDITS
+-------
+
+Game made by <developer>
+Made using <engine used>
+
+This game uses the following assets:
+    <list of assets used and their authors if applicable>
+    <If I use a palette from Lospec, I generally also include that here.>
