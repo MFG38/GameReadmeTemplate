@@ -6,4 +6,4 @@ You can use the provided **create_readme.bat** (Windows) or **create_readme.sh**
 
 # License
 
-This repository is licensed under the MIT license. See the LICENSE file for details.
+This repository is licensed under the MIT license. See the [LICENSE](/LICENSE) file for details.
