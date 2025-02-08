@@ -8,4 +8,3 @@ if [ $? -eq 0 ]; then
 else
 	echo Creation failed. See error above for details.
 fi
-
